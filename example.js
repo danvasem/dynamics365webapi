@@ -4,8 +4,8 @@ var $http = injector.get("$http");
 var $q = injector.get("$q");
 
 var urlToken = "https://login.microsoftonline.com/faa1818f-0b43-4391-96d6-f1b72c7dfd79/oauth2/token"; //Oauth para azure de mdcloud
-var userCRM = "crm_maint@datafastec.onmicrosoft.com"; //usuario de CRM
-var passwordCRM = "D4t4f4$t19"; //password de CRM
+var userCRM = "XXXXX"; //usuario de CRM
+var passwordCRM = "XXXXX"; //password de CRM
 var urlCRM = "https://datafastec.crm2.dynamics.com/"; //URL CRM
 
 var applicationId = "51f81489-12ee-4a9e-aaae-a2591f45987d"; //azure application - aplica para todas las organizaciones de CRM Online
