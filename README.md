@@ -11,3 +11,5 @@ C# Samples: https://docs.microsoft.com/en-us/powerapps/developer/common-data-ser
 
 Ejecutar Chrome sin CORS: 
 "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
+
+Simple OData Client: https://github.com/simple-odata-client/Simple.OData.Client
