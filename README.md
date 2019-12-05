@@ -9,4 +9,5 @@ JavaScript Samples: https://docs.microsoft.com/en-us/powerapps/developer/common-
 
 C# Samples: https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/webapi/web-api-samples-csharp
 
-Ejecutar Chrome sin CORS: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
+Ejecutar Chrome sin CORS: 
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
